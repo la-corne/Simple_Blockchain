@@ -1,0 +1,7 @@
+FILE
+Type:pow
+BlockSize:50
+Difficulty:5
+AMC:0.0
+NSB:0.0
+ATM:6513.0
